@@ -4,8 +4,6 @@ import time
 import pygame
 import threading
 
-beats_per_measure = 1
-num_measures = 2
 bpm = 120
 pulse_length = 60 / bpm
 
